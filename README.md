@@ -1,4 +1,4 @@
-my1strepo
+My First Repo
 =========
 
-my1strepo
+This is my first test repo.
